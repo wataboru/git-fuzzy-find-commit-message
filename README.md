@@ -92,6 +92,23 @@ Add Makefile and build script
 $ fcm -v
 ```
 
+## Generate files
+
+This app generates the following files.
+- ~/.fcm  
+  Message Template. You can add your own additions to increase the number of Fuzzy Find candidates.
+- ~/.fcm_history  
+  Each time you commit using fcm, the history is added to this page. The history is also a candidate for a Fuzzy Find.
+
+### Format
+
+```~/.fcm
+# This line is CommentOut, Not use.
+FuzzyFind candidate1
+FuzzyFind candidate2
+FuzzyFind candidate3
+```
+
 ## Use as a libary
 
 - https://github.com/ktr0731/go-fuzzyfinder
