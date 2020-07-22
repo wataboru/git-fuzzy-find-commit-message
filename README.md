@@ -102,7 +102,8 @@ This app generates the following files.
 
 ### Format
 
-```~/.fcm
+- `~/.fcm` or `~/.fcm_history`
+```
 # This line is CommentOut, Not use.
 FuzzyFind candidate1
 FuzzyFind candidate2
