@@ -116,7 +116,7 @@ FuzzyFind candidate3
 
 ## Refer to the following for implementation
 
-- https://github.com/skanehira/fk
-  - > I referred to CI and Build as a whole.
-- https://anond.hatelabo.jp/20160725092419
-  - > I got all the default message templates from here.
+- https://github.com/skanehira/fk  
+I referred to CI and Build as a whole.
+- https://anond.hatelabo.jp/20160725092419  
+I got all the default message templates from here.
