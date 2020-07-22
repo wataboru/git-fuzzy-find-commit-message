@@ -2,6 +2,8 @@
 
 fcm provides a Git commit message template fuzzy search feature.
 
+![description](https://raw.githubusercontent.com/wiki/wataboru/git-fuzzy-find-commit-message/images/fcm_description.gif)
+
 ## Use as CLI
 
 ### Install
