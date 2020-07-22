@@ -10,7 +10,7 @@ fcm provides a Git commit message template fuzzy search feature.
 $ go get github.com/wataboru/git-fuzzy-find-commit-message
 ```
 
-Download from [releases](https://github.com/wataboru/git-fuzzy-find-commjkit-message/releases)
+Download from [releases](https://github.com/wataboru/git-fuzzy-find-commit-message/releases)
 
 ### Usage
 
